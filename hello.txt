@@ -13,4 +13,4 @@ hello wolrd! hello git!
 hello wolrd! hello git!
 hello wolrd! hello git!
 hello wolrd! hello git!master test!
-hello wolrd! hello git!
+hello wolrd! hello git!hot fix test
