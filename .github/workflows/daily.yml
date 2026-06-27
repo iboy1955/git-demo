@@ -1,8 +1,8 @@
 name: AIHOT Daily Email
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+schedule:
+  - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
